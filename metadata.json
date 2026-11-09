@@ -1,0 +1,6 @@
+{
+  "name": "macOS",
+  "description": "macOS for the Web desktop simulation running fully offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
